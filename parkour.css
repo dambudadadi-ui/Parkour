@@ -626,7 +626,9 @@ main {
   align-items: center;
   width: 100%;
   text-align: center;
-
+color : var(--muted);
+  font-size: 12px;
+  margin-top: 10px;
 }
 
 #background {
